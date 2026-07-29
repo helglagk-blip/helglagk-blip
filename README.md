@@ -1,7 +1,8 @@
 ## Hi there, I'm Olga Goleshchikhina 👋
 ## I'm a Data Analyst 
 ----
-## Connect with me:
+## Connect with me: 
+https://t.me/OlaGK
 ## Languages and Tools:
 
 <!--
