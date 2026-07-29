@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Olga Goleshchikhina 👋
+## I'm a Data Analyst 
+----
+## Connect with me:
+## Languages and Tools:
 
 <!--
 **helglagk-blip/helglagk-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
