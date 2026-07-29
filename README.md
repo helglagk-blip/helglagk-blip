@@ -1,5 +1,5 @@
 ## Hi there, I'm Olga Goleshchikhina 👋
-## I'm a Data Analyst## 
+## I'm a Data Analyst
 ----
 
 ## Connect with me: 
