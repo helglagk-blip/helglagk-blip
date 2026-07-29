@@ -1,10 +1,10 @@
 ## Hi there, I'm Olga Goleshchikhina 👋
-# I'm a Data Analyst 
+## I'm a Data Analyst## 
 ----
 
-# Connect with me: 
+## Connect with me: 
 https://t.me/OlaGK
-# Languages and Tools:
+## Languages and Tools:
 SQL, Python, DBeaver, Jupyter Notebook, Matplotlib, pandas, PostgreSQL, DataLens, MS Excel, 1C: Бухгалтерия
 
 <!--
